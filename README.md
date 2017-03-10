@@ -16,7 +16,7 @@ Procuramos pessoas com os seguintes atributos:
 A seleção será dividida em 3 etapas
 
 - Análise de currículo (Onde os aprovados receberão acesso ao teste prático).
-- Avaliação Prática 
+- Avaliação Prática
 - Entrevista 
 
 ---
@@ -72,7 +72,7 @@ O projeto será dividido em 2 partes que serão avaliadas separadamentes.
   
   https://www.postgresql.org/
   
-  O projeto deverá ser enviado para o email **eliasjcjunior@gmail.com** com o assunto: **OPORTUNIDADE ESTÁGIO**
+  O projeto deverá ser enviado para o email **eliasjcjunior@gmail.com** com o assunto: **OPORTUNIDADE ESTÁGIO** em até **4 DIAS** após o   recebimento do link do projeto
   
   **RELEMBRANDO, O PROJETO SERÁ ACEITO MESMO ESTANDO INCOMPLETO, PORÉM COM MAIS RECURSOS MELHOR SERÁ A AVALIAÇÃO**
   
