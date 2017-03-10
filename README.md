@@ -74,7 +74,7 @@ O projeto será dividido em 2 partes que serão avaliadas separadamentes.
   
   O projeto deverá ser enviado para o email **eliasjcjunior@gmail.com** com o assunto: **OPORTUNIDADE ESTÁGIO** em até **4 DIAS** após o   recebimento do link do projeto
   
-  **RELEMBRANDO, O PROJETO SERÁ ACEITO MESMO ESTANDO INCOMPLETO, PORÉM COM MAIS RECURSOS MELHOR SERÁ A AVALIAÇÃO**
+  **RELEMBRANDO, O PROJETO DEVERÁ SER ENVIADO MESMO ESTANDO INCOMPLETO, PORÉM COM MAIS RECURSOS MELHOR SERÁ A AVALIAÇÃO**
   
   Boa Sorte a todos!!!
 
