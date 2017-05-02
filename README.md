@@ -21,58 +21,16 @@ A seleção será dividida em 3 etapas
 
 ---
 
-Para uma pequena avaliação conhecimentos em Javascript serão importantes, porém não são obrigatórios.
 
-O projeto será dividido em 2 partes que serão avaliadas separadamentes.
+  Criar sistema CRUD utilizando a API
+  
+  https://jsonplaceholder.typicode.com/
+  
+  O projeto deve ser feito com React-Native, usando redux e router-flux, apenas o CRUD básico é essencial porém todo recurso a mais será avaliado como extra 
 
-- 1ª Parte
-
-  Um pequeno formulário de cadastro de alunos, com os seguintes campos:
+- 
   
-  - **Nome**
-  - **Idade**
-  - **Email**
-  - **Senha**
-  - **Confirmar Senha**
-  
-  
-  Deve ser construido com AngularJS V1 e BootStrap seguindo os padrões de Jhoon Papa
-  
-  Os formulários precisam apenas ser funcionais, porém qualquer cuidado extra será recompensado.
-  
-  Seguem os links:
-  
-  https://angularjs.org/
-  
-  http://getbootstrap.com/
-  
-  https://github.com/johnpapa/angular-styleguide/tree/master/a1
-
-- 2ª Parte
-  
-  Uma API rest que faça o cadastro de Aluno, porém dividido em 2 entidades:
-  
-  Entidade Aluno com
-  
-  - **Nome**
-  - **Idade**
-  
-  Entidade Usuário com
-  
-  - **Email**
-  - **Senha**
-  
-  A API deve ser construida em NodeJS e Sequelize JS com o Banco de Dados PostgresSQL
-  
-  Seguem os links:
-  
-  https://nodejs.org/en/
-  
-  http://docs.sequelizejs.com/en/v3/
-  
-  https://www.postgresql.org/
-  
-  O projeto deverá ser enviado para o email **eliasjcjunior@gmail.com** com o assunto: **OPORTUNIDADE ESTÁGIO** em até **4 DIAS** após o   recebimento do link do projeto
+  O projeto deverá ser enviado para o email **eliasjcjunior@gmail.com** com o assunto: **OPORTUNIDADE ESTÁGIO** em até **5 DIAS** após o   recebimento do link do projeto
   
   **RELEMBRANDO, O PROJETO DEVERÁ SER ENVIADO MESMO ESTANDO INCOMPLETO, PORÉM COM MAIS RECURSOS MELHOR SERÁ A AVALIAÇÃO**
   
